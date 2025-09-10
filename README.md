@@ -11,9 +11,9 @@ This project investigates web traffic patterns for the Grammys and Recording Aca
 3. Following the website split, the split sites had higher engagement (more pages per session, lower bounce rate) alone than the combined site.
 
 ## Tools & Libraries
-Python 3.9+ - Data manipulation
-Pandas - Data cleaning & manipulation
-Plotly Express - Visualizations
+Python 3.9+ - Data manipulation  
+Pandas - Data cleaning & manipulation  
+Plotly Express - Visualizations  
 
 ## Datasets
 
